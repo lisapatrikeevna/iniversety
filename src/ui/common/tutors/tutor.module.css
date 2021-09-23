@@ -1,0 +1,15 @@
+.wrapTutor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 13px 0;
+}
+.name{
+    width: 220px;
+}
+.contacts{
+    width: 243px;
+}
+.option{
+    width: 300px;
+}

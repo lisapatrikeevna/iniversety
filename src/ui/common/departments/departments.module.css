@@ -1,0 +1,15 @@
+.wrapDepartments{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.name{
+    display: flex;
+    width: 200px;
+}
+.navigate{
+   float: right;
+    background: transparent;
+    border: none;
+}
+

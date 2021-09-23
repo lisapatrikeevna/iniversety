@@ -1,0 +1,15 @@
+.wrapCities{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.name{
+    width: 250px;
+    display: flex;
+}
+.navigate{
+    margin-left: auto;
+    background: transparent;
+    border: none;
+}
+
